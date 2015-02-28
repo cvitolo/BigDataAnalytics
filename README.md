@@ -6,4 +6,4 @@ BigDataAnalytics (R package)
 Functions for scraping GitHub and other sources.
 
 **To cite this software:**  
-Vitolo C., BigDataAnalytics (R-package), (2015), GitHub repository, https://github.com/cvitolo/r_CurveNumber, doi: http://dx.doi.org/10.5281/zenodo.15722
+Vitolo C., BigDataAnalytics (R-package), (2015), GitHub repository, https://github.com/cvitolo/r_BigDataAnalytics, doi: http://dx.doi.org/10.5281/zenodo.15722
